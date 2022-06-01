@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import { Detail } from "@raycast/api";
+import { openCommandPreferences } from "@raycast/api";
 
 describe("sample test", () => {
   it("can run a simple test", () => {
